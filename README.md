@@ -7,7 +7,7 @@ Python script made to automatically change wallpapers depending on current time
 1. Copy the repository
 2. Create file ``.wallpapers.toml`` in your ``~`` directory (see configuration files for different DEs)
 3. Install requirements: ```pip3 install -r requirements.txt```
-4. Add ```sh -c 'python3 <path to wallpapers.py>'```
+4. Add ```sh -c 'python3 <path to wallpapers.py>'``` to startup scripts
 5. Restart your computer and enjoy.
 
 ## GNOME
